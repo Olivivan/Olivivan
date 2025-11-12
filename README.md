@@ -14,7 +14,7 @@
 ***Hello World!*** 👋
 
 My name is Ivan and this is my GitHub profile.<br/>
-I´m a Business Intelligence and Data Engineer seeking to leverage 3+ years of experience.<br/>
+I´m a Business Intelligence, Data and Quantitative Engineer seeking to leverage 3+ years of experience.<br/>
 Here are the most relevant projects that I´ve done.<br/>
 Most part are related to **Business Intelligence, Data Science, Machine Learning and Data Engineering**.<br/>
 A few others are related to **Software Engineering**.<br/>
@@ -28,7 +28,7 @@ A few others are related to **Software Engineering**.<br/>
 
 - *Spoken Languages:*<br/>
 
-<pre><img src="https://user-images.githubusercontent.com/67763471/179825097-f51303c7-75eb-4975-99c0-c8d8e5d86e7e.svg" width="20" heigth="20" /> <strong>Portuguese: Native</strong>   <img src="https://user-images.githubusercontent.com/67763471/179825666-9fa4ac93-a70e-4128-a62f-dec064199be2.png" width="20" heigth="20" /> <strong>English: Fluent</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826733-23b80a09-0827-4f0e-b12a-16b1e643eb35.jpg" width="20" heigth="20" /> <strong>Spanish: Intermediate</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826227-e15c5b20-86e0-4b87-9406-08af122630a8.png" width="20" heigth="20" /> <strong>Italian: Beginner</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826181-0776bc73-c3a7-4229-9d6f-c59dcf9939b4.png" width="20" heigth="20" /> <strong>French: Beginner</strong> <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" width="20" heigth="20" /> <strong>German: Beginner</strong></pre> 
+<pre><img src="https://user-images.githubusercontent.com/67763471/179825097-f51303c7-75eb-4975-99c0-c8d8e5d86e7e.svg" width="20" heigth="20" /> <strong>Portuguese: Native</strong>   <img src="https://user-images.githubusercontent.com/67763471/179825666-9fa4ac93-a70e-4128-a62f-dec064199be2.png" width="20" heigth="20" /> <strong>English: Fluent</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826733-23b80a09-0827-4f0e-b12a-16b1e643eb35.jpg" width="20" heigth="20" /> <strong>Spanish: Intermediate</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826227-e15c5b20-86e0-4b87-9406-08af122630a8.png" width="20" heigth="20" /> <strong>Italian: Beginner</strong>   <img src="https://user-images.githubusercontent.com/67763471/179826181-0776bc73-c3a7-4229-9d6f-c59dcf9939b4.png" width="20" heigth="20" /> <strong>French: Beginner</strong>   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" width="20" heigth="20" /> <strong>German: Beginner</strong></pre> 
 
 - *Languages:*<br/>
 
