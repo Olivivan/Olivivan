@@ -55,7 +55,7 @@ A few others are related to **Software Engineering**.<br/>
 </div>
 <br/>
 
-<p><img src="https://user-images.githubusercontent.com/67763471/179779107-25f0930e-70ff-482c-89c1-f1dc74d66809.png" width="500" heigth="500"></p>
+<p><img src="file:///C:/Users/olivi/Downloads/Outdated%20Skills%20Table.png" width="500" heigth="500"></p>
 
     
 ***Welcome to my portfolio.***  
